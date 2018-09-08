@@ -1,0 +1,3 @@
+- https://speakerdeck.com/campoy/understanding-nil
+- https://dave.cheney.net/tag/golang-3
+- use nil chans to disable select case
